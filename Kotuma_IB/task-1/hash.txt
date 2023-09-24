@@ -1,0 +1,8 @@
+.\Folder1\Folder4\file1.txt -- b'h'
+.\Folder1\Folder4\neFile.csv -- b'\x16\x18'
+.\Folder1\file2.txt -- b'm'
+.\Folder2\file3.csv -- b'\x05`'
+.\Folder2\file4.txt -- b'\xa8'
+.\Folder3\file5.txt -- b'\x13&'
+.\Folder3\file6.txt -- b'\x91'
+.\file7.txt -- b'x'
